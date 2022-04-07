@@ -1,15 +1,14 @@
 # TimeManager
 
-Over Time Approval app for Employees
+## Over Time Approval app for Employees
+- Post 
+- User -> Devise
+- AdminUser -> Administrate gem
 
-Post 
-User -> Devise
-AdminUser -> Administrate gem
+## Features : 
+- Approval Workflow 
+- SMS : Twilio
+- Email summary for admin approval
 
-# Features : 
-Approval Workflow 
-SMS : Twilio
-Email summary for admin approval
-
-# UI : 
-Bootstrap
+## UI : 
+- Bootstrap
